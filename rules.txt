@@ -1,0 +1,28 @@
+                                                                                          GAME RULES    
+Enter name of player , choose  the mode (Random,In series) , level (Kid,Teen,Family) ,  game(Truth or Dare,Game of Dare,Face the Truth,Heads Up).
+<>TRUTH OR DARE :
+    =>This game is played between two or more players.
+    = >After entring the details ,the system will choose the player .
+    =>Option will be given to the player to take TRUTH or DARE .
+    =>On the basis of the choice the task will be given.
+<>FACE THE TRUTH :
+    =>This game is played between two or more players.
+    =>After entring the details ,the system will choose the player .
+    =>Player will then have to answer the question asked.
+    =>Try to be honest.
+<>GAME OF DEARE :
+    =>This game is played between two or more players.
+    =>After entring the details ,the system will choose the player .
+    =>Player will then have to do the task.
+    =>Try to show some courage.
+<>HEADS UP :
+    =>This game is played between two or more players.
+    =>After entring the details ,the system will choose the player , the player name will be there for 5 second. After it will be disappeared.
+    =>Except that player (choosen by system) have to see next slide which they have to EXPLAIN (NO ACTION AND NO SOUND EFFECT) to the player (choosen by system).tjis slide will be for 5 second.
+    =>After that slide disappear, another slide will appear where player have to guess the word or phrase, explained by other players and have to enter the word or phrase. That player will have 600 second(10 min)time to guess the word or phrase.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+                                                                                       <<<<<ENJOY YOUR GAME>>>>>
+                                                                      <<<<<< YOUR ENJOYMENT. OUR MOTTO>>>>>
+
